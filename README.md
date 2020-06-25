@@ -15,3 +15,6 @@ Java, C++, Android Studio, Arduino
 2. 센서에 소리가 인식되면 그 주파수에 맞게 LED가 반응
 3. 아두이노에 블루투스 모듈을 추가해 안드로이드와 통신
 4. LED의 불빛을 변경할 수 있는 어플리케이션 구현
+
+## 사진   
+![시연 사진](https://user-images.githubusercontent.com/45002556/85661156-5b199c00-b6f1-11ea-9db6-29d920da1765.png)   
