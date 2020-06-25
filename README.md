@@ -17,4 +17,4 @@ Java, C++, Android Studio, Arduino
 4. LED의 불빛을 변경할 수 있는 어플리케이션 구현
 
 ## 사진   
-![시연 사진](https://user-images.githubusercontent.com/45002556/85661156-5b199c00-b6f1-11ea-9db6-29d920da1765.png)   
+<img src="https://user-images.githubusercontent.com/45002556/85661156-5b199c00-b6f1-11ea-9db6-29d920da1765.png" width="50%">   
